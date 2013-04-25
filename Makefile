@@ -13,6 +13,8 @@ EPUB_BUILDER_FLAGS = \
 
 MOBI_BUILDER = kindlegen
 
+title:
+	rp5 run common/title.rb
 
 pdf:
 	cd en && $(PDF_BUILDER) $(PDF_BUILDER_FLAGS) $(SOURCE_FILE_NAME) -o $(BOOK_FILE_NAME).pdf
