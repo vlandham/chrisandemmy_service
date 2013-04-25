@@ -73,15 +73,37 @@ Beauty is true and Truth is Beautiful!
 
 *chris*
 
+*officiant*
+
+*chris*
+
+*emily*
+
 # Third Reading
+
+## Marriage Advise
+
+*Jane Wells (1886)*
+
+>Let your love be stronger than your hate or anger.
+Learn the wisdom of compromise, for it is better to bend a little than to break.
+Believe the best rather than the worst.
+People have a way of living up or down to your opinion of them.
+Remember that true friendship is the basis for any lasting relationship.
+The person you choose to marry is deserving of the courtesies and kindness you bestow on your friends. 
+Please hand this down to your children and your children’s children.
 
 # Exchange of Rings
 
 # Pronouncement
 
-By the power invested in me on this day, June 1st, 2013, by the state of Massachusetts, I am wonderfully happy to announce you man and wife. 
+By the power invested in me by the state of Massachusetts, on this beautiful day, the first of June, 2013, , I am wonderfully happy to announce you man and wife. 
 
 You may kiss my sister.
 
 _[turn to audience]_
+
+May I introduce to you, Mr and Mrs. Emily and Christopher Jedras.
+
+_[cheers]_
 
