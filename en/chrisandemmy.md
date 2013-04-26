@@ -13,7 +13,7 @@
 
 # Introduction and Welcome
 
-Hello and welcome. We are honored that you have chosen to spend your time here with us, celebrating the union of Emily Vallandingham and Christopher Jedras.
+Hello! Its truely an  honored that you have chosen to spend your time here with us, celebrating the union of Emily Vallandingham and Christopher Jedras.
 
 # First Reading
 
@@ -44,7 +44,7 @@ The faithful, young and true.
 
 # Second Reading
 
-*Truth and Beauty*
+##Truth and Beauty
 
 John Hogben
 
@@ -62,8 +62,6 @@ Something of what we may be, as we trace
 Our own dim shadow in her lustrous eyes;
 Nor may we part such with a dull harsh rule –
 Beauty is true and Truth is Beautiful!
-
-## Option: The Words to the Theme Song from 'Goldfinger'
 
 # Exchange of Vows
 
