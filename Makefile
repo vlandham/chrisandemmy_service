@@ -23,9 +23,16 @@ nup:
 	cd en && pdfnup --frame false  --nup 2x1 $(BOOK_FILE_NAME).pdf
 
 booklet:
+	# attempts and failures:
 	# cd en && pdf2ps $(BOOK_FILE_NAME).pdf - | psbook | psnup -s1 -2x1 | ps2pdf - $(BOOK_FILE_NAME)_booklet.pdf
-	cd en && pdfbook --short-edge $(BOOK_FILE_NAME).pdf 
-	# cd en && pdf2ps $(BOOK_FILE_NAME).pdf - | psbook | psnup -s1 -2 | ps2pdf - $(BOOK_FILE_NAME)_booklet.pdf
+	# cd en && pdfbook --short-edge --signature '2' $(BOOK_FILE_NAME).pdf 
+	# cd en && pdfbook --short-edge --signature '2' $(BOOK_FILE_NAME).pdf 
+	# cd en && pdf2ps $(BOOK_FILE_NAME).pdf - | psbook -s8 | psnup -2 -PA5 | ps2pdf - $(BOOK_FILE_NAME)_booklet.pdf
+	#
+	# This one appears to work:
+	# post processing needs: if printing on both sides, rotate every odd page of booklet output
+	# from: http://catdevblog.nickbair.net/2010/06/08/printing-in-booklet-format-from-the-linux-command-line/
+	cd en && pdf2ps $(BOOK_FILE_NAME).pdf - |  psbook | psnup -2 -W5.5in -H8.5in | ps2pdf - $(BOOK_FILE_NAME)-booklet.pdf
 
 en/redis.epub: en/title.png en/title.txt en/redis.md
 	$(EPUB_BUILDER) $(EPUB_BUILDER_FLAGS) $^ -o $@

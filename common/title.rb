@@ -2,11 +2,12 @@
 class TitleSketch < Processing::App
 
   def draw_bunting(x,y, width, height)
-    bunting_colors = [[0,0,0],[255,255,255]]
+    bunting_colors = [[255,255,255],[200,200,200]]
     color = bunting_colors[rand(bunting_colors.length )]
     puts color.inspect
     fill(*color)
-    stroke(255)
+    # stroke(255)
+    no_stroke
     x2 = x + width
     y2 = y
     x3 = x + (width.to_f / 2)
@@ -19,13 +20,13 @@ class TitleSketch < Processing::App
     # color_mode RGB, 1.0
     smooth
     no_loop
+    no_stroke
 
 
+    # blue from website
     fill(63, 169, 155)
-    noStroke()
+    fill(255)
     rect(0,0,width,height)
-    fill(153)
-    stroke(204,102,0)
     bunting_width = 20
     bunting_height = 30
     bunting_spacer = 10

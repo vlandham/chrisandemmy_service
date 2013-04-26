@@ -1,5 +1,7 @@
 \documentclass[18pt]{book}
-\usepackage[a4paper]{geometry}
+%\usepackage[a4paper]{geometry}
+\usepackage[paperwidth=5.5in,paperheight=8.5in]{geometry}
+
 
 % Fonts and typography
 
@@ -28,7 +30,7 @@
 
 %% Set line spacing
 \usepackage{setspace}
-\setstretch{1.2}
+\setstretch{1.0}
 
 %% Disable paragraph indentation
 \usepackage{parskip}
@@ -123,12 +125,15 @@
   % Title page
 
   \thispagestyle{empty}
+  \newgeometry{left=0.1in}
 
   \vspace*{\fill}
     \begin{center}
-      \includegraphics[width=1.0\textwidth]{title}
+      \includegraphics[width=0.8\textwidth]{title}
     \end{center}
   \vspace*{\fill}
+
+  \restoregeometry
 
   \setcounter{page}{0}
 
