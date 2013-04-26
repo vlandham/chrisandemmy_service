@@ -23,7 +23,8 @@ nup:
 	cd en && pdfnup --frame false  --nup 2x1 $(BOOK_FILE_NAME).pdf
 
 booklet:
-	cd en && pdf2ps $(BOOK_FILE_NAME).pdf - | psbook | psnup -s1.1 -2 | ps2pdf - $(BOOK_FILE_NAME)_booklet.pdf
+	# cd en && pdf2ps $(BOOK_FILE_NAME).pdf - | psbook | psnup -s1 -2x1 | ps2pdf - $(BOOK_FILE_NAME)_booklet.pdf
+	cd en && pdfbook --short-edge $(BOOK_FILE_NAME).pdf 
 	# cd en && pdf2ps $(BOOK_FILE_NAME).pdf - | psbook | psnup -s1 -2 | ps2pdf - $(BOOK_FILE_NAME)_booklet.pdf
 
 en/redis.epub: en/title.png en/title.txt en/redis.md
