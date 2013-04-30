@@ -39,13 +39,15 @@ So let's ruminate just a bit on the concept of love. What is love? I'd like to q
 
 >It is a curious thought, but it is only when you see people looking ridiculous that you realize just how much you love them.
 
-As we hear these people's thoughts, and as you ponder what love means to you, we start to see different facets of love. And love is a many-faceted thing. Each time we experience it, we see a slightly different glimpse of it. I think an appreciation for the details of this subject takes many encounters with love - which is to say, it takes time.
+As we hear these people's thoughts, and as we ponder ourselves, about what love means to you, we start to see different facets of love. Love is a many-faceted thing. Each time we experience it, we see a slightly different glimpse of it. A different perspective on love. I think an appreciation for the details of this subject takes many encounters with love - which is to say, it takes a long time.
 
-In this respect, I think we all have a lot to learn about love. But Chris and Emmy have started down this path towards learning more about this great and powerful component of our lives. 
+So, like all of us, Chris and Emmy have a lot to learn about love. But they are now starting down a path towards learning more about this great and powerful component of their lives, by sharing it with one another.
 
 In a relationship, one mind revises the other; one heart changes its partner. Who we are and who we become depends, in part, on whom we love.
 
-...
+This is scary. This is hard to understand, hard to believe, hard to accept. But this reality is also very exciting. It means you, Emmy, can be vulnerable. You can let go with Chris. You can be you with Chris. It means you, Chris, can open up. You can be contented with Emmy. You can be you with Emmy. 
+
+In fact you _will_ be yourself with Chris. And you _will_ be yourself with Emmy.
 
 Real, honest, complete love requires letting go.
 
