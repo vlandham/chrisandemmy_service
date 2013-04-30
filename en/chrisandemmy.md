@@ -15,7 +15,39 @@
 
 Hello! Welcome! It's really wonderful that you have chosen to spend your time here celebrating this occasion with Emmy and Chris.
 
-And it is an honor to be invited here in front of you to perform the role of officiant for this marriage.
+With this ceremony, we set aside a few moments in time to stop and allow ourselves to think about, to meditate on, the power and impact of love. And in particular, the love that has brought Emily Vallandingham and Christopher Jedras together today. 
+
+So let's ruminate just a bit on the concept of love. What is love? I'd like to quote some people smarter then myself on what their definition for this strange and mystical thing is.
+
+*C. S. Lewis, in The Four Loves:*
+
+>To love at all is to be vulnerable. 
+
+*Antoine de Saint-Exupéry, in Airman’s Odyssey:*
+
+>Love does not consist of gazing at each other, but in looking outward together in the same direction. 
+
+*Shakespeare, in A Midsummer Night’s Dream:*
+
+>Love looks not with the eyes, but with the mind.
+
+*Anaïs Nin, in A Literate Passion:*
+
+>What is love but acceptance of the other, whatever he is.
+
+*Agatha Christie, in her autobiography*
+
+>It is a curious thought, but it is only when you see people looking ridiculous that you realize just how much you love them.
+
+As we hear these people's thoughts, and as you ponder what love means to you, we start to see different facets of love. And love is a many-faceted thing. Each time we experience it, we see a slightly different glimpse of it. I think an appreciation for the details of this subject takes many encounters with love - which is to say, it takes time.
+
+In this respect, I think we all have a lot to learn about love. But Chris and Emmy have started down this path towards learning more about this great and powerful component of our lives. 
+
+In a relationship, one mind revises the other; one heart changes its partner. Who we are and who we become depends, in part, on whom we love.
+
+...
+
+Real, honest, complete love requires letting go.
 
 # First Reading
 
@@ -35,7 +67,7 @@ And it is an honor to be invited here in front of you to perform the role of off
 
 >The happiness of healthy dreams
 
->Eve’s dews may weep,
+>Eve's dews may weep,
 
 >But love delightful seems.
 
