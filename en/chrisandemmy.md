@@ -1,15 +1,16 @@
 # Schedule
 
 * Prelude
-* Processional
+* Processional - _Make You Feel My Love_
 * Introduction and Welcome
 * First Reading
 * Second Reading
+* Ring Warming
 * Exchange of Vows
 * Third Reading
 * The Exchange of Rings
 * Pronouncement
-* Recessional
+* Recessional - _Dance Tonight_
 
 # Introduction and Welcome
 
@@ -17,11 +18,9 @@ Hello! Welcome! It's really wonderful that you have chosen to spend your time he
 
 With this ceremony, we set aside a few moments in time to stop and allow ourselves to think about, to meditate on, the power and impact of love. And in particular, the love that has brought Emily Vallandingham and Christopher Jedras together today. 
 
-So let's ruminate just a bit on the concept of love. What is love? I'd like to quote some people smarter then myself on what their definition for this strange and mystical thing is.
+So let's ruminate just a bit on the concept of love. What is love? For inspiration, let's hear how a few authors and poets define this strange and mystical force:
 
-*C. S. Lewis, in The Four Loves:*
-
->To love at all is to be vulnerable. 
+Antoine de Saint-Exupéry, a French poet and author of _The Little Prince_ wrote in another of his works, _Airman’s Odyssey_ :
 
 *Antoine de Saint-Exupéry, in Airman’s Odyssey:*
 
@@ -31,15 +30,19 @@ So let's ruminate just a bit on the concept of love. What is love? I'd like to q
 
 >Love looks not with the eyes, but with the mind.
 
+Anaïs Nin, a bold author, who sought to find a language for otherwise wordless instincts and feelings said this:
+
 *Anaïs Nin, in A Literate Passion:*
 
 >What is love but acceptance of the other, whatever he is.
+
+Finally, 
 
 *Agatha Christie, in her autobiography*
 
 >It is a curious thought, but it is only when you see people looking ridiculous that you realize just how much you love them.
 
-As we hear these people's thoughts, and as we ponder ourselves, about what love means to you, we start to see different facets of love. Love is a many-faceted thing. Each time we experience it, we see a slightly different glimpse of it. A different perspective on love. I think an appreciation for the details of this subject takes many encounters with love - which is to say, it takes a long time.
+As we hear these people's thoughts, and as we ponder ourselves, about what love means to us personally, we start to see different facets of love. Love is a many-faceted thing. Each time we experience it, we see a slightly different glimpse of it. A different perspective on love. I think an appreciation for the details of this subject takes many encounters with love - which is to say, it takes a long time.
 
 So, like all of us, Chris and Emmy have a lot to learn about love. But they are now starting down a path towards learning more about this great and powerful component of their lives, by sharing it with one another.
 
@@ -97,6 +100,22 @@ Real, honest, complete love requires letting go.
 
 >The faithful, young and true.
 
+# Ring Warming
+
+Now Chris and Emmy would like you all to play a small part in this service. All of you are friend, family, loved ones. All of you have touched the lives of Chris and Emmy in ways that cannot be described in words. 
+
+The rings will be passed around now, starting on either end of the 'aisles'. If you have a prayer, wish, or meditation you would like to give to Chris and Emmy, do so when you are handed the ring and then pass it to the person next to you.
+
+The symbolism in this gesture is one of unity and connectedness. By being together today, we are all part of a community, a family, centered around Emmy and Chris today. 
+
+But your *out* of the family if you loose the ring. 
+
+_[band start to play]_
+
+_[rings are started at the back on either end of the service]_
+
+_[when completed, rings are collected at the front]_
+
 # Second Reading
 
 ##Truth and Beauty
@@ -135,7 +154,7 @@ John Hogben
 
 *officiant*
 
-*emily*
+*emmy*
 
 *chris*
 
@@ -143,7 +162,7 @@ John Hogben
 
 *chris*
 
-*emily*
+*emmy*
 
 # Third Reading
 
@@ -179,7 +198,7 @@ _[kiss]_
 
 _[turn to audience]_
 
-I would like to introduce to you, Mr and Mrs. Emily and Christopher Jedras.
+I would like to introduce to you, Mr and Mrs. Christopher and Emily Jedras.
 
 _[cheers]_
 
