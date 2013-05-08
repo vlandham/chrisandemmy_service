@@ -4,11 +4,12 @@
 * Processional - _Make You Feel My Love_
 * Introduction and Welcome
 * First Reading
+* Declaration of Intent
 * Second Reading
 * Ring Warming
 * Exchange of Vows
-* Third Reading
 * The Exchange of Rings
+* Third Reading
 * Pronouncement
 * Recessional - _Dance Tonight_
 
@@ -100,21 +101,23 @@ Real, honest, complete love requires letting go.
 
 >The faithful, young and true.
 
-# Ring Warming
+# Declaration of Intent
 
-Now Chris and Emmy would like you all to play a small part in this service. All of you are friend, family, loved ones. All of you have touched the lives of Chris and Emmy in ways that cannot be described in words. 
+Chris, will you receive Emmy as your wife?
+Will you pledge to her your love, faith and tenderness,
+cherishing her with a husband's loyalty and devotion?
 
-The rings will be passed around now, starting on either end of the 'aisles'. If you have a prayer, wish, or meditation you would like to give to Chris and Emmy, do so when you are handed the ring and then pass it to the person next to you.
+*chris*
 
-The symbolism in this gesture is one of unity and connectedness. By being together today, we are all part of a community, a family, centered around Emmy and Chris today. 
+I will.
 
-But your *out* of the family if you loose the ring. 
+Emmy, will you receive Chris as your husband?
+Will you pledge to him your love, faith and tenderness,
+cherishing him with a wife's loyalty and devotion?
 
-_[band start to play]_
+*emmy*
 
-_[rings are started at the back on either end of the service]_
-
-_[when completed, rings are collected at the front]_
+I will.
 
 # Second Reading
 
@@ -164,7 +167,48 @@ John Hogben
 
 *emmy*
 
-# Third Reading
+# Ring Warming
+
+Now Chris and Emmy would like you all to play a small part in this service. All of you are friend, family, loved ones. All of you have touched the lives of Chris and Emmy in ways that cannot be described in words. 
+
+The rings will be passed around now, starting on either end of the 'aisles'. If you have a prayer, wish, or meditation you would like to give to Chris and Emmy, do so when you are handed the ring and then pass it to the person next to you.
+
+The symbolism in this gesture is one of unity and connectedness. By being together today, we are all part of a community, a family, centered around Emmy and Chris today. 
+
+But your *out* of the family if you loose the ring. 
+
+_[band start to play]_
+
+_[rings are started at the back on either end of the service]_
+
+_[when completed, rings are collected at the front]_
+
+
+# Wedding Vows
+
+Do you promise to uphold these vows you have made here today, witnessed by us, your friends and family?
+
+*both*
+
+we do
+
+# Exchange of Rings 
+
+Do you have the ring?
+
+These rings, we all know, are just a symbol. They are a physical reminder of the solemn bond you two will now share. 
+
+Wear them now. 
+
+_[put ring on chris]_
+
+When you look down at this ring on your finger, be reminded of this bond and be strengthened by it.
+
+_[put ring on emmy]_
+
+When you look down at this ring on your finger, be reminded of this bond and be strengthened by it.
+
+# Third Reading or Marriage Blessing
 
 ## Marriage Advise
 
@@ -184,13 +228,11 @@ John Hogben
 
 >Please hand this down to your children and your children’s children.
 
-# Rings & Pronouncement
+# Pronouncement
 
-Do you have the ring?
+You have expressed your love to one another through the commitments and promises you have just made.
 
-_[exchange rings]_
-
-By the power invested in me by the state of Massachusetts, on this beautiful day, the first of June, 2013,I am exceptionally happy to pronounce you man and wife. 
+And so, by the power invested in me by the state of Massachusetts, on this beautiful day, the first of June, 2013,I am exceptionally happy to pronounce you man and wife. 
 
 You may kiss my sister.
 
