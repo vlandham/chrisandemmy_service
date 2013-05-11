@@ -15,7 +15,7 @@
 
 # Introduction and Welcome
 
-Hello! Welcome! It's really wonderful that you have chosen to spend your time here celebrating this occasion with Emmy and Chris.
+Hello! Welcome! Today we are gathered here, in this place, to celebrate the coming together of Emmy and Chris.
 
 With this ceremony, we set aside a few moments in time to stop and allow ourselves to think about, to meditate on, the power and impact of love. And in particular, the love that has brought Emily Vallandingham and Christopher Jedras together today. 
 
@@ -30,12 +30,6 @@ Antoine de Saint-Exupéry, a French poet and author of _The Little Prince_ wrote
 *Shakespeare, in A Midsummer Night’s Dream:*
 
 >Love looks not with the eyes, but with the mind.
-
-Anaïs Nin, a bold author, who sought to find a language for otherwise wordless instincts and feelings said this:
-
-*Anaïs Nin, in A Literate Passion:*
-
->What is love but acceptance of the other, whatever he is.
 
 Finally, 
 
